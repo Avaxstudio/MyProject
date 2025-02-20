@@ -3,3 +3,4 @@ secrets.txt
 terraform.tfstate
 terraform.tfvars
 .terraform/
+terraform.tfstate.backup
